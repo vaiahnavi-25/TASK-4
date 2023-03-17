@@ -87,6 +87,7 @@
   }
   .search a {
     display: flex;
+    z-index:1
   }
   header a ion-icon {
     position: relative;
@@ -477,6 +478,3 @@
       flex-wrap: nowrap;
     }
   }
-.Flex{
-Background-color:black;
-}
